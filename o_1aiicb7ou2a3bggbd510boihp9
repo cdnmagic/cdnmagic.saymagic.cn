@@ -1,0 +1,1 @@
+在WenJinApp中复写onTerminate()函数；执行ActiveAndroid.dipose()函数

@@ -1,0 +1,15 @@
+1、别人对我点赞 消息发了两次
+{"score":"5.3","msgType":15,"notifyType":1,"create_time":"2016-08-23 15:03:24.0","nickname":"长颈鹿","description":"","consumption":0,"photo_url":"http:\/\/belle.img-cn-beijing.aliyuncs.com\/15010550001_336\/avter1471245012531.png","userId":336,"evaluateId":240}
+
+
+{"score":"5.3","msgType":17,"notifyType":1,"create_time":"2016-08-23 15:03:24.0","nickname":"长颈鹿","description":"","consumption":0,"photo_url":"http:\/\/belle.img-cn-beijing.aliyuncs.com\/15010550001_336\/avter1471245012531.png","userId":336,"evaluateId":240}
+
+2、友评行业选择 貌似数据没有发生变化
+
+3、查看TA的友评处(是否应该抛开自己)
+
+4、友评处加入城市之后，好些之前发的数据都不返回了
+
+5、发表评鉴 处 企业查找返回99
+
+6、文章id 183 返回的userid 317
